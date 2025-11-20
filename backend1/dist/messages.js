@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.ATOMIC_CHESS = exports.STANDARD = exports.FISHER_CHESS = exports.MOVE_PLAYED = exports.VALID_MOVES = exports.GAME_OVER = exports.MOVE = exports.INIT_GAME = void 0;
+exports.INIT_GAME = "init_game";
+exports.MOVE = "move";
+exports.GAME_OVER = "game_over";
+exports.VALID_MOVES = "REQUEST_VALID_MOVES";
+exports.MOVE_PLAYED = "move_played";
+exports.FISHER_CHESS = "fisher_chess";
+exports.STANDARD = "standard_chess";
+exports.ATOMIC_CHESS = "atomic_chess";
